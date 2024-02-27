@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#wrapper {
+  display: grid;
+  grid-template-columns: 18vw 82vw;
+}
+
+#sidebar {
+  background-color: #0ea5e9;
+}
+
+#main {
+  display: grid;
+  grid-template-rows: 15vh 85vh;
+}
+
+#header {
+  background-color: #f8fafc;
+}
+
+#main-content {
+  background-color: #cbd5e1;
+}
