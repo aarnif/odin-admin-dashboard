@@ -17,7 +17,7 @@ This is a Admin Dashboard template. The project is part of the [The Odin Project
 
 ## Image
 
-![Index Page](/images/dashboard-project.png)
+![Index Page](/images/other/dashboard-project.png)
 This project is based on the model image above.
 
 ## Instructions
